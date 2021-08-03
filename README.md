@@ -8,10 +8,6 @@ O intuito deste projeto é recriar a página inicial de INSTAGRAM e assim pratic
 
 
 
-![](C:\workspace\PROJETO-INSTAGRAM\img\IMG PARA README.jpeg)
-
-
-
  🚀 Let's code! 🚀 
 
 
